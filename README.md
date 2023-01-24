@@ -1,4 +1,4 @@
-# Shell My Pass
+# Shell My Pass!
 
 This project aims to be a simple but powerfull password manager using Shell and native tools you probably already have. Since we use Linux, you'll need to councern with very few dependencies, or not :) 
 
@@ -66,7 +66,7 @@ As the name says, this command will list all passwords saved in the 'keyring' fo
 ./mypass.sh del [password-name]
 ```
 
-This command remove a password saved in the 'keyring' folder. This acttion cannot be  undone, so be carefull.
+This command remove a password saved in the 'keyring' folder. This action cannot be undone, so be carefull.
 
 ## License
 
