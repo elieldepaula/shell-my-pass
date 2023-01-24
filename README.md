@@ -1,6 +1,6 @@
 # Shell My Pass!
 
-This project aims to be a simple but powerfull password manager using Shell and native tools you probably already have. Since we use Linux, you'll need to councern with very few dependencies, or not :) 
+This project aims to be a simple but powerful password manager using the Shell and native tools you probably already have. Since we use Linux, you will need to worry about very few dependencies, or not :)
 
 ## Dependencies
 
